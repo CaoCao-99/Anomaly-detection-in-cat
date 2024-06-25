@@ -47,6 +47,7 @@ To set up the project locally, follow these steps:
 git clone https://github.com/yourusername/cat-anomaly-behavior-detection.git
 cd cat-anomaly-behavior-detection
 pip install -r requirements.txt
+```
 
 ## Usage
 1. **Preprocess the Video**: Convert video files using `scripts/preprocess_video.py`.
