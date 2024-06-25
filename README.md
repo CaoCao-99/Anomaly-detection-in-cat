@@ -45,8 +45,6 @@ The project framework is outlined as follows:
 To set up the project locally, follow these steps:
 ```bash
 git clone https://github.com/yourusername/cat-anomaly-behavior-detection.git
-cd cat-anomaly-behavior-detection
-pip install -r requirements.txt
 ```
 
 ## Usage
