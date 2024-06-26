@@ -1,6 +1,6 @@
 # Cat Anomaly Behavior Detection Project
 
-![Cat Anomaly Behavior Detection](https://yourimageurl.com/cat_anomaly_detection.png)
+![Cat Anomaly Behavior Detection](images/model.png)
 
 ## Overview
 This project aims to detect abnormal behaviors in cats to monitor their health. The methodology involves using the Yolov8 model for keypoint estimation, followed by anomaly detection techniques to identify irregular behaviors.
